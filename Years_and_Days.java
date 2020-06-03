@@ -19,3 +19,7 @@ public class Years_and_Days {
 
     }
 }
+OUTPUT:
+            Input the number of minutes
+                                       : 3456789
+            3456789 minutes is equal to 6 years and 210 days
